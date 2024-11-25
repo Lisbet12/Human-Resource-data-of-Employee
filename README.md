@@ -13,7 +13,7 @@ The Project is aimed to identify trends, reasons, and patterns behind employee a
 ## Data Source 
 Excel .xlsx
 
-## Tools
+## Tools 
 - Excel
 - Power BI
 
@@ -28,6 +28,7 @@ This involves exploring of data to answer some question regarding the data such 
 - What is the total attrition count?
 - What is the Total Attrition for each Gender?
 - what is the Total Attrition rate 
+
 
 ## Recommendations and Findings
 #### Total Attrition vs. Current Employees
