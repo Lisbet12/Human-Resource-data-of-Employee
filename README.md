@@ -27,7 +27,10 @@ This involves exploring of data to answer some question regarding the data such 
 - What is the Monthly income for Gender?
 - What is the total attrition count?
 - What is the Total Attrition for each Gender?
-- what is the Total Attrition rate 
+- what is the Total Attrition rate?
+  
+![Screenshot 2024 Hr data 1](https://github.com/user-attachments/assets/8b24303d-d932-4042-b395-b73b68838f24)
+![Screenshot 2024 Hr data 2](https://github.com/user-attachments/assets/0938a292-a702-4bfb-a8c0-c16d6542a7c2)
 
 
 ## Recommendations and Findings
