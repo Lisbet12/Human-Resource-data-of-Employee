@@ -19,7 +19,7 @@ Excel .xlsx
 This involves exploring of data to answer some question regarding the data such as;
 - What are the reason for employees left the Organisation?
 - What is the Monthly income for Gender?
-- What is the Total attrition count
-- What is the Total Attrition for each Gender.
+- What is the total attrition count?
+- What is the Total Attrition for each Gender?
 
   
