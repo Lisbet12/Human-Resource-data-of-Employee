@@ -1,4 +1,11 @@
 # Human-Resource-data-of-Employee
+## TABLE CONTENT
+## [Project Overview](#project-overview)
+## [Data Source](#data-source)
+## [Tools](#tool)
+## [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+## [Exploratory Data Analysis](#exploratory-data-analysis)
+## [Recommendations and Findings](#recommendations-and-findings)
 
 ## Project Overview
 The Project is aimed to identify trends, reasons, and patterns behind employee attrition, understand the parameters influencing their decisions, and provide actionable insights to reduce turnover and improve employee retention.
@@ -22,7 +29,7 @@ This involves exploring of data to answer some question regarding the data such 
 - What is the Total Attrition for each Gender?
 - what is the Total Attrition rate 
 
-## Recommendation and Finding
+## Recommendations and Findings
 #### Total Attrition vs. Current Employees
 
 - Finding: The total number of employees who have left the organization (attrition) is less than the current number of employees.
