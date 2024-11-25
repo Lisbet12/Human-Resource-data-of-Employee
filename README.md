@@ -13,7 +13,7 @@ The Project is aimed to identify trends, reasons, and patterns behind employee a
 ## Data Source 
 Excel .xlsx
 
-## Tools 
+## Tools
 - Excel
 - Power BI
 
